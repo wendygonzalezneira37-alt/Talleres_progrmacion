@@ -22,7 +22,6 @@ public class factorial7 {
         int r;
         int combinacion;
         int permutacion;
-
         int factorialN;
         int factorialR;
         int factorialNR;
@@ -46,4 +45,3 @@ public class factorial7 {
         teclado.close();
     }
 }    
-}

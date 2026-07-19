@@ -1,4 +1,4 @@
-numeros = [] ##Variable vara la lista de resultados
+numeros = [] ##Variable para la lista de resultados
 
 xanterior = (int(input("Ingrese un número"))) #para ingresar un valor "input"
 numeros.append(xanterior) #Guarda los datos de la variable y los ordena de forma ascendente

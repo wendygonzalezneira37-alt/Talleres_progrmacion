@@ -4,11 +4,13 @@ public class MinimoComunMultiplo {
         int divisor;  //definir variables con el tipo de dato
         int menor; 
         int respuesta = 1;
+
         if (x1 < x2){
             menor = x1;
         }else {
             menor = x2;
         }
+        
         for (divisor =1; divisor <= menor; divisor++){ //el ciclo desde donde tomara los divisores desde 1 hasta el menor
             if (x1 % divisor == 0 && x2 % divisor == 0){  // si el residuo entre x1 y x2 es 0 el MCD es el divisor
                 respuesta = divisor;

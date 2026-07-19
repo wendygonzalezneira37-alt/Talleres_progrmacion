@@ -18,5 +18,5 @@ Algoritmo Punto2
 	FinMientras
 	
 	Escribir "La cantidad de numeros impares fue: ",conteoImpares,""
-	
+
 FinAlgoritmo
